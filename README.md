@@ -15,6 +15,8 @@ The sap.py script is an assembler and programmer for the SAP computer. It has fu
 code and translate it into binary. It will then transmit that binary code via its GPIO pins to a connected
 SAP machine (no hardware modifications needed to the SAP machine).
 
+![ESP32 Connected to the Ben Eater SAP Computer](micro_sap.jpg?raw=true "ESP32 Connected to the Ben Eater SAP Computer")
+
 ## Inspiration
 If you find this repository useful, you may also enjoy the following sites:
 
